@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Tibrewal</h1>
 <h3 align="center">I am working on Computer Vision</h3>
 
-- 🔭 I’m currently working on [Emotion Detection](https://share.streamlit.io/krronk/emonet2/main/app.py)
+- 🔭 I’m currently working on [Few Shot Learning](https://share.streamlit.io/krronk/emonet2/main/app.py)
 
 - 🌱 I’m currently learning **PyTorch, CV, NLP**
 
